@@ -1,0 +1,7 @@
+C:\Users\dafmartinez\source\repos\pruebainsert\pruebainsert\bin\pruebainsert.dll.config
+C:\Users\dafmartinez\source\repos\pruebainsert\pruebainsert\bin\pruebainsert.dll
+C:\Users\dafmartinez\source\repos\pruebainsert\pruebainsert\bin\pruebainsert.pdb
+C:\Users\dafmartinez\source\repos\pruebainsert\pruebainsert\obj\Debug\pruebainsert.csprojAssemblyReference.cache
+C:\Users\dafmartinez\source\repos\pruebainsert\pruebainsert\obj\Debug\pruebainsert.csproj.CoreCompileInputs.cache
+C:\Users\dafmartinez\source\repos\pruebainsert\pruebainsert\obj\Debug\pruebainsert.dll
+C:\Users\dafmartinez\source\repos\pruebainsert\pruebainsert\obj\Debug\pruebainsert.pdb
